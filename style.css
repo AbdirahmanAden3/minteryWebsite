@@ -6,6 +6,7 @@
 
 
 
+
 .container-fluid .a{
     text-decoration: none;
 }
@@ -92,3 +93,17 @@
         color: yellow;
 
     }
+
+    
+     img{
+        max-width: 1200px;
+        display: block;
+        max-width: 100%;
+        margin-inline: auto;
+     }
+
+      
+    /* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
